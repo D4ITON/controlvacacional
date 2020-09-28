@@ -8,20 +8,24 @@ Aplicacion de escritorio que ayuda a calcular la cantidad de días de vacaciones
 
 ✅ Corecto
 
+```
 📂vacaciones
 ┣ 📂images
 ┃ ┣ 📜icon.png
 ┃ ┗ 📜logo_plano.png
 ┗ 📜Sistema.jar
+```
 
 ❌ Incorrecto
 
+```
 📦descargas
 ┣ 📂images
 ┃ ┣ 📜icon.png
 ┃ ┗ 📜logo_plano.png
 ┗ 📂vacaciones
 ┃ ┗ 📜Sistema.jar
+```
 
 ## Uso
 
