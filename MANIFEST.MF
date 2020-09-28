@@ -1,0 +1,4 @@
+Manifest-Version: 1.0.0
+Created-By: Dalthonmh
+Main-Class: Bienvenida
+X-COMMENT: Sistema de vacaciones en spotify
